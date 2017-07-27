@@ -1,0 +1,25 @@
+Nikolas Beltran
+CS Final Project
+
+Primary Needs and Features
+
+- Use of gyroscope.
+- Use of touch screen.
+- A start screen.
+	- An option to play the next level.
+	- An option to see a screen that displays top scores.
+	- A level select option to replay completed levels.
+	- An options menu, but what would I put into it?
+		- An option to adjust the volume even though we could just use the iPad volume buttons?
+- A pause menu.
+	- An option to quit the level.
+	- An option to restart the level.
+
+
+
+A list of requirements, including non-functional requirements.
+
+- Player object needs to be responsive to tilt input.
+- Player object needs to respond quickly to touch input.
+- Selecting options need to be quick.
+- Loading levels needs to be quick.

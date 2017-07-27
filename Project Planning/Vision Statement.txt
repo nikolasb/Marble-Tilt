@@ -1,0 +1,6 @@
+Marble Maze is a mobile game designed for the iPad. The object of the game is to maneuver a ball through a maze using 
+the iPad’s gyroscope functionality within a time limit. The player must also avoid obstacles on the way to the goal and 
+can earn points by collecting objects and clearing the stage quickly. The game is geared towards players who enjoy playing 
+in small amounts. However, it also has elements geared toward more dedicated players through a strong focus on aiming for 
+the highest possible score per stage. This product is designed to give different types of players entertainment whether 
+they have only a few minutes to play or a few hours.
